@@ -1,1 +1,44 @@
-#stats,#vtube{position:relative}#overlay{-ms-filter:fliph;-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);filter:fliph;transform:scaleX(-1)}#logo,#overlay,.tutorial{left:0;position:absolute;top:0}#logo{height:100%;width:100%;z-index:20001}#videoel{-ms-filter:fliph;-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);filter:fliph;transform:scaleX(-1)}canvas{display:block}.coloedbutton,.moviebutton,.uibutton{width:80px}
+#stats,
+#vtube {
+    position: relative
+}
+
+#overlay {
+    -ms-filter: fliph;
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    filter: fliph;
+    transform: scaleX(-1)
+}
+
+#logo,
+#overlay,
+.tutorial {
+    left: 0;
+    position: absolute;
+    top: 0
+}
+
+#logo {
+    height: 100%;
+    width: 100%;
+    z-index: 20001
+}
+
+#videoel {
+    -ms-filter: fliph;
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    filter: fliph;
+    transform: scaleX(-1)
+}
+
+canvas {
+    display: block
+}
+
+.coloedbutton,
+.moviebutton,
+.uibutton {
+    width: 80px
+}
